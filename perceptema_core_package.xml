@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>perceptema_core</name>
+  <version>0.1.0</version>
+  <description>Núcleo cognitivo y memoria de Perceptema One.</description>
+  <maintainer email="eulosoys-droid@example.com">Perceptema Team</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-scipy</exec_depend>
+  <exec_depend>python3-torch</exec_depend>
+  <exec_depend>python3-timm</exec_depend>
+  <exec_depend>python3-numba</exec_depend>
+
+  <member_of_group>ros2</member_of_group>
+</package>

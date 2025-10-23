@@ -1,0 +1,32 @@
+# --------------------------------------------------
+# 1. PROTEGER LA INNOVACIÓN (CÓDIGO FUENTE)
+# Oculta recursivamente TODOS los archivos de Python.
+# ¡SIN EXCEPCIONES!
+*.py
+
+# --------------------------------------------------
+# 2. OCULTAR CARPETAS DE ROS (Build/Log/Install)
+# Oculta las carpetas de compilación, instalación y logs de ROS 2.
+build/
+install/
+log/
+devel/
+
+# --------------------------------------------------
+# 3. OCULTAR CACHÉ DE PYTHON
+__pycache__/
+*.pyc
+*cpython-*.pyc
+
+# --------------------------------------------------
+# 4. OCULTAR SECRETOS Y ENTORNO
+# (¡CRÍTICO!) Nunca subir claves de API o secretos.
+.env
+*.env
+secrets.toml
+
+# --------------------------------------------------
+# 6. OCULTAR ARCHIVOS DE SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+.vscode/

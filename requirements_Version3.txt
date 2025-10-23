@@ -1,0 +1,14 @@
+rclpy
+numpy
+scipy
+opencv-python-headless
+torch
+torchvision
+torchaudio
+torchrl
+transformers
+accelerate
+bitsandbytes
+openai-whisper
+piper-tts
+unitree-sdk2-python

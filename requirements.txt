@@ -1,0 +1,11 @@
+# Contenido para requirements.txt
+
+numpy
+scipy
+torch
+torchvision
+torchaudio
+opencv-python-headless
+librosa
+numba
+timm
