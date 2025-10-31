@@ -1,7 +1,7 @@
 # --------------------------------------------------
 # 1. PROTEGER LA INNOVACIÓN (CÓDIGO FUENTE)
 # Oculta recursivamente TODOS los archivos de Python.
-# ¡SIN EXCEPCIONES!
+# sin excepciones
 *.py
 
 # --------------------------------------------------
@@ -20,7 +20,7 @@ __pycache__/
 
 # --------------------------------------------------
 # 4. OCULTAR SECRETOS Y ENTORNO
-# (¡CRÍTICO!) Nunca subir claves de API o secretos.
+# Nunca subir claves de API o secretos.
 .env
 *.env
 secrets.toml
