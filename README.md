@@ -60,5 +60,5 @@ This repository makes the "blueprints" of the architecture public, allowing revi
 **Andrés Eduardo Gonzales Palacios**
 
 * *https://www.linkedin.com/in/andr%C3%A9s-gonzales-palacios-57344156/*
-* *https://osf.io/user/8yrm4*
+* *https://bit.ly/3LCM6UT*
 * *andresgp.psi@gmail.com*
